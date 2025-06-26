@@ -2,7 +2,7 @@ import React from "react";
 import "./Skills.css";
 const Skills = () => {
   return (
-    <div className="skills" id="#skills">
+    <div className="skills" id="skills">
       <div className="skills-titles">
         <p className="technical">TECHNICAL EXPERTISE</p>
         <h1 className="skills1">Skills & Technologies</h1>

@@ -3,7 +3,7 @@ import "./Experience.css";
 import { FaExternalLinkAlt } from "react-icons/fa";
 const Experience = () => {
   return (
-    <div className="exp">
+    <div className="exp" id="exp">
       <div className="exp-title">
         <p>MY EXPERIENCE</p>
         <h1>My professional journey</h1>

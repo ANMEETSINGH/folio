@@ -5,13 +5,19 @@ const Navbar = () => {
   return (
     <div className="h">
       <div className="navbar">
-        <a>Experience</a>
+        <a href="#exp">Experience</a>
         <a href="#skills">Skills</a>
-        <a>Projects</a>
+        <a href="nav">Projects</a>
 
         <button className="btn-1">
           <AiOutlineDownload className="icon-1" />
-          <span className="insider">Resume</span>
+          <a
+            className="insider"
+            href="https://drive.google.com/file/d/1lZ4IL-oaVPfwcDkFyskzmepZlsvzHEuj/view?usp=sharing"
+            target="_blank"
+          >
+            Resume
+          </a>
         </button>
       </div>
     </div>

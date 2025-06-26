@@ -16,7 +16,13 @@ const Header = () => {
           <button className="button-x">Get in touch</button>
           <button className="button-y">
             <AiOutlineDownload className="icon-2" />
-            <div className="resume">Resume</div>
+            <a
+              href="https://drive.google.com/file/d/1lZ4IL-oaVPfwcDkFyskzmepZlsvzHEuj/view?usp=sharing"
+              target="_blank"
+              className="resume"
+            >
+              Resume
+            </a>
           </button>
         </div>
         <div className="contact">
@@ -27,13 +33,21 @@ const Header = () => {
           >
             <FaGithubSquare />
           </a>
-          <a className="linkedin">
+          <a
+            className="linkedin"
+            href="https://www.linkedin.com/in/anmeet-singh-71ba93233/"
+            target="_blank"
+          >
             <FaLinkedin />
           </a>
-          <a className="twitter">
+          <a className="twitter" href="https://x.com/anmeet07" target="_blank">
             <FaSquareTwitter />
           </a>
-          <a className="mail">
+          <a
+            className="mail"
+            href="https://mail.google.com/mail/u/0/#inbox"
+            target="_blank"
+          >
             <MdOutlineEmail />
           </a>
         </div>
