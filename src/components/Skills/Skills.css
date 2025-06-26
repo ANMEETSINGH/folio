@@ -17,7 +17,8 @@
 }
 .skills-buttons {
   display: flex;
-  margin-left: 210px;
+  width: 1000px;
+  margin: auto;
 }
 .skills-buttons button {
   padding: 10px;
