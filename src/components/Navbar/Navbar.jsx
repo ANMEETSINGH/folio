@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="navbar">
         <a href="#exp">Experience</a>
         <a href="#skills">Skills</a>
-        <a href="nav">Projects</a>
+        <a href="#pro">Projects</a>
 
         <button className="btn-1">
           <AiOutlineDownload className="icon-1" />

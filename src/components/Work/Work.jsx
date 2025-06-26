@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa6";
 import "./Work.css";
 const Work = () => {
   return (
-    <div className="work">
+    <div className="work" id="pro">
       <div className="titles">
         <p>MY WORK</p>
         <h1>Featured Projects</h1>
