@@ -59,6 +59,7 @@ h1 {
 .two {
   background-color: black;
   color: white;
+  margin-left: 10px;
 }
 .cardes {
   display: grid;
