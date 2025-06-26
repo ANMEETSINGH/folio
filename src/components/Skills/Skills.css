@@ -1,0 +1,26 @@
+.skills {
+  font-family: sans-serif;
+  padding: 35px;
+  color: white;
+  background-color: black;
+}
+.skills-titles {
+  place-items: center;
+  padding: 30px;
+}
+.skills1 {
+  margin-top: 30px;
+}
+.technical {
+  font-size: medium;
+  margin-bottom: -9px;
+}
+.skills-buttons {
+  display: flex;
+  margin-left: 210px;
+}
+.skills-buttons button {
+  padding: 10px;
+  border-radius: 20px;
+  margin-left: 10px;
+}
