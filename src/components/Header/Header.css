@@ -6,6 +6,7 @@
   font-family: sans-serif;
   justify-content: space-around;
   height: 750px;
+  width: 100%;
 }
 .img {
   width: 325px;
@@ -68,4 +69,14 @@
   display: flex;
   margin-left: 20px;
   gap: 30px;
+}
+@media (max-width: 1401px) {
+  .header {
+    width: 100%;
+    justify-content: center;
+  }
+  /* .header img {
+    width: 250px;
+    height: 250px;
+  } */
 }

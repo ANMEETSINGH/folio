@@ -7,7 +7,7 @@ import Work from "../../components/Work/Work";
 const Home = () => {
   return (
     <div>
-      <Header />
+      <Header className="homeheader" />
       <Experience />
       <Skills />
       <Work />
